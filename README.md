@@ -14,6 +14,7 @@ NovellaUrfu
 ├───design
 │   └───people
 │       ├───alice
+│       ├───boss
 │       └───daniel
 ├───src
 └───story
