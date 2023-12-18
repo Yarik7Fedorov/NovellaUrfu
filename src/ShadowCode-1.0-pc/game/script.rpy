@@ -47,6 +47,28 @@ init:
     image fon3_4 = "bg/Day3/day3_scene4_1.png"
     image fon3_5 = "bg/Day3/day3_scene5_1.png"
 
+    #bg day 4
+    image fon4_1 = "bg/Day4/day4_scene1_1.png"
+    image fon4_2 = "bg/Day4/day4_scene2_1.png"
+    image fon4_3 = "bg/Day4/day4_scene3_1.png"
+    image fon4_4 = "bg/Day4/day4_scene4_1.png"
+    image fon4_5 = "bg/Day4/day4_scene5_1.png"
+    image fon4_6 = "bg/Day4/day4_scene5_2.png"
+    image fon4_7 = "bg/Day4/day4_scene6_1.png"
+
+    #bg day 5
+    image fon5_1 = "bg/Day5/day5_scene1_1.png"
+    image fon5_2 = "bg/Day5/day5_scene2_1.png"
+
+    #good end
+    image fon_g1 = "bg/good_ending/day5_scene1_2.png"
+    image fon_g2 = "bg/good_ending/day5_scene2_2.png"
+    image fon_g3 = "bg/good_ending/day5_scene3_2.png"
+    #bad end
+    image fon_b1 ="bg/bad_ending/day5_scene1_3.png"
+    image fon_b2 ="bg/bad_ending/day5_scene2_3.png"
+    image fon_b3 ="bg/bad_ending/day5_scene3_3.png"
+
 screen map:
     modal True
     zorder 100
@@ -67,6 +89,7 @@ screen map:
 label gmail:
     show fontocomp
     show massange
+    hide dialogue
     pause
 #
     jump Day_return
