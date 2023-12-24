@@ -10,12 +10,22 @@ init:
     define p_M = Character('Майкл', color="#f3ffc8")
     ##define p_A = Character('Повествователь', color="#e9530d")
 
-
+    #музыка
+    define audio.gmail = "audio/iphone_email_alert.mp3"
+    define audio.stuk = "audio/stuk.mp3"
+    define audio.Budi ="audio/будильник.mp3"
+    define audio.zivota = "audio/zivota.mp3"
+    define audio.hacker = "audio/hacker.mp3"
+    define audio.klava = "audio/стукклавы.mp3"
+    define audio.kassa = "audio/касса.mp3"
+    define audio.naprag = "audio/напряг.mp3"
+    define audio.sad = "audio/грустныйлев.mp3"
+    define audio.fun ="audio/fun.mp3"
     ## Persons Images
     image Daniel = "people/daniel/daniel_base.png"
-    image Michael = "people/michael/michael_base.png"
+    #image Michael = "people/michael/michael_base.png"
     image Alice = "people/alice/alice_base.png"
-
+    #image Boss = "people/boss_base.png"
     ## bg day 1
     image fon = "bg/Day1/day1_scene1_1.png"
     image fon1 = "bg/Day1/day1_scene1_2.png"

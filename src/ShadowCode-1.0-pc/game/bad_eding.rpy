@@ -1,4 +1,6 @@
 label Bad_eding:
+    stop music
+    play music sad
     #грустная музыка
     scene fon_b1
     with showdissolve
@@ -14,7 +16,9 @@ label Bad_eding:
     with showdissolve
     "Дэниел оказался в неизвестной ему стране, без денег, без сил, без работы и мотивации."
     "Разве так должна была закончиться история некогда перспективного Дэниеля?"
-    "..."
+    "{w}.{w}.{w}."
     scene black
     with showdissolve
+    pause(3.0)
+    stop music
     return

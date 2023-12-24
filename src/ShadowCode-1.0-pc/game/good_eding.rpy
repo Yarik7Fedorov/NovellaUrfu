@@ -16,10 +16,15 @@ label Good_eding:
     #with showdissolve
     "Дэниел возращается в офис и понимает, что все-таки это его место."
     "Хакерскую группировку поймали благодаря информации от Дэниела."
+    stop music
+    play music fun
     scene fon_g3
     with showdissolve
+    show daniel_smile
     "Проходит полгода"
     "Дэниел теперь опытный безопасник. Он рад, что у него получилось найти специальность ему по душе, ведь ему так нравится помогать людям"
     scene black
     with showdissolve
+    pause(3.0)
+    stop music
     return
