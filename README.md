@@ -12,19 +12,39 @@
 ├───analytics
 │   └───results
 ├───design
+│   ├───artifacts
 │   ├───audio
 │   ├───bg
+│   │   ├───day1
+│   │   ├───day2
+│   │   ├───day3
+│   │   ├───day4
+│   │   └───day5
+│   │       ├───bad ending
+│   │       └───good ending
 │   └───people
 │       ├───alice
+│       ├───background character
 │       ├───boss
 │       └───daniel
+├───results
 ├───src
-│   └───code
+│   └───ShadowCode-1.0-pc
+│       ├───game
+│       ├───lib
+│       └───renpy
 └───story
     └───days
 ```
 
 - `analytics` - материал, созданный аналитиком;
-- `design` - герои, фоны и весь графический материал, используемый в проекте;
+- `design` - герои, фоны, аудио, графический и прочий материал, используемый в проекте;
+- `results` - презентация проекта, видеопрезентация проекта, ссылка на Task Board-доску;
 - `src` - исходный код проекта;
-- `story` - сюжет проекта.
+- `story` - сюжет новеллы, разделенный на дни.
+
+## Дополнительно
+Контакты для связи в случае возникновения вопросов у Проверяющих:
+- https://t.me/Michaelzhm
+- misha@zhmailo.ru
+- https://vk.com/misha_zhm
