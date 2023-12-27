@@ -21,11 +21,7 @@ init:
     define audio.naprag = "audio/напряг.mp3"
     define audio.sad = "audio/грустныйлев.mp3"
     define audio.fun ="audio/fun.mp3"
-    ## Persons Images
-    image Daniel = "people/daniel/daniel_base.png"
-    #image Michael = "people/michael/michael_base.png"
-    image Alice = "people/alice/alice_base.png"
-    #image Boss = "people/boss_base.png"
+
     ## bg day 1
     image fon = "bg/Day1/day1_scene1_1.png"
     image fon1 = "bg/Day1/day1_scene1_2.png"
